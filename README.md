@@ -14,11 +14,11 @@ Despite the absence of scripting, core applications such as **Notepad** and **Cl
 
 This project was created **entirely using HTML and CSS**, with no JavaScript or backend code. Here's how:
 
-- 📄 **HTML** was used to structure all system components such as app windows, buttons, icons, and layout sections.
-- 🎨 **CSS** handled the design, layout, and all interactivity (like showing/hiding windows, styling buttons, responsive behavior, etc.).
-- ✅ **Checkboxes and labels** were used to simulate interaction (like opening/closing apps or toggling menus).
-- 📱 **Media queries** made the design responsive across all devices.
-- ⌛ Although there is a clock and notepad interface, due to no JavaScript, **data is not stored** and the clock resets upon refresh.
+-  **HTML** was used to structure all system components such as app windows, buttons, icons, and layout sections.
+-  **CSS** handled the design, layout, and all interactivity (like showing/hiding windows, styling buttons, responsive behavior, etc.).
+-  **Checkboxes and labels** were used to simulate interaction (like opening/closing apps or toggling menus).
+-  **Media queries** made the design responsive across all devices.
+-  Although there is a clock and notepad interface, due to no JavaScript, **data is not stored** and the clock resets upon refresh.
 
 ---
 
